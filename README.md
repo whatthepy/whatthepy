@@ -1,4 +1,4 @@
-## Hello!
+## >>> print("Hello World!")
 
 This is a collection of [Python code](https://github.com/whatthepy/python-basic-examples) (and [Medium](https://medium.com/@whatthepy) walkthroughs) with the goal of covering scripting basics and exploring what Python can be used for.
 
